@@ -1,0 +1,3 @@
+# Ignorar bases de datos y logs de Mosquitto
+Infraestructura/mosquitto/data/
+Infraestructura/mosquitto/log/
